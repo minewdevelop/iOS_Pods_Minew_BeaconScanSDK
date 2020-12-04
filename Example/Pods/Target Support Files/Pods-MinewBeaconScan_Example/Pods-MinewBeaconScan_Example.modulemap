@@ -1,0 +1,6 @@
+framework module Pods_MinewBeaconScan_Example {
+  umbrella header "Pods-MinewBeaconScan_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

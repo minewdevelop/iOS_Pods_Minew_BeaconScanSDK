@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - MinewBeaconScan (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - MinewBeaconScan (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  MinewBeaconScan:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  MinewBeaconScan: f319883cdce561d2edc7afce4974bd4b641e9369
+
+PODFILE CHECKSUM: 4a454cf1f577531285cd37165a37851fc8aaebac
+
+COCOAPODS: 1.10.0
