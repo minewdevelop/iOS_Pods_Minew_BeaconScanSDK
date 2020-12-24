@@ -1,6 +1,11 @@
+### [Documentation](https://docs.beaconyun.com/zh-CN/iOS/iOS_Beacon_Software_Development_Kit_Guide.html)
+---
+
+
 # Change Log
 
-## [1.0.0](https://github.com/minewdevelop/iOS_Pods_Minew_WristbandSDK/releases/tag/1.0.0)(12/4/2020)
+
+## [1.0.0](https://github.com/minewdevelop/iOS_Pods_Minew_BeaconScanSDK/releases/tag/1.0.0)(12/4/2020)
 
 Released on Friday, December 4, 2020. 
 
@@ -22,7 +27,7 @@ Released on Friday, December 4, 2020.
   
    - Core
      - getBeaconValue
-  
+   
   - Types of beacon value
     - BeaconValueIndex_UUID = 1,   // UUID stringValue
     - BeaconValueIndex_Major,     // major, intValue
